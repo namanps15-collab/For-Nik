@@ -1,98 +1,98 @@
 {
-  "updated": "2026-10-22T06:15:06.676Z",
+  "updated": "2026-10-23T06:09:04.310Z",
   "items": [
     {
-      "title": "ED Restricts Membership for Cosmetology Accreditor",
-      "summary": "ED Restricts Membership for Cosmetology Accreditor Josh Moody Wed, 10/21/2026 - 02:55 PM The Education Department’s accreditation advisory committee recommended stripping the accreditor of federal recognition. But senior officials stopped short of that recomme",
-      "link": "https://www.insidehighered.com/news/governance/accreditation/2026/10/21/ed-restricts-membership-cosmetology-accreditor",
-      "published": "Wed, 21 Oct 2026 18:55:56 +0000",
-      "source": "Inside Higher Ed",
-      "tag": "Higher Ed"
-    },
-    {
       "title": "BMJ Open",
-      "summary": "STRENGTHS AND LIMITATIONS OF THIS STUDYThis study will be a single-centre, assessor and statistician blinded, randomised controlled clinical trial consisting of a 4-week intervention and 12, 24, 48 weeks follow-up. This trial will incorporate both clinical mea",
+      "summary": "STRENGTHS AND LIMITATIONS OF THIS STUDY This study examines a large sample of over 50 million hospitalisations that are representative of all US Census regions. The difference-in-differences analysis of cannabis policy mitigates the effect of individual-level ",
       "link": "http://bmjopen.bmj.com",
-      "published": "2026-10-21T02:00:02-07:00",
+      "published": "2026-10-22T15:32:16-07:00",
       "source": "BMJ Open — latest research",
       "tag": "Research"
     },
     {
-      "title": "High-intensity interval training and moderate-intensity continuous training versus usual care in adults with familial hypercholesterolaemia: protocol for the UPPA-FH three-arm randomised trial",
-      "summary": "STRENGTHS AND LIMITATIONS OF THIS STUDY The trial uses a randomised controlled design with supervised interventions evaluating the impact of two distinct exercise modalities: high-intensity interval training and moderate-intensity continuous training. Within e",
-      "link": "http://bmjopen.bmj.com/cgi/content/short/16/10/e114501?rss=1",
-      "published": "2026-10-21T02:00:02-07:00",
-      "source": "BMJ Open — latest research",
-      "tag": "Research"
-    },
-    {
-      "title": "Adebrelimab combined with apatinib and chemotherapy for neoadjuvant therapy and biomarker analysis in limited-stage small cell lung cancer: study protocol for a single-arm trial",
-      "summary": "STRENGTHS AND LIMITATIONS OF THIS STUDY Synergistic modality strategy: This trial investigates a novel perioperative treatment strategy for limited-stage small cell lung cancer, integrating immunotherapy, anti-angiogenic therapy and chemotherapy. Comprehensive",
-      "link": "http://bmjopen.bmj.com/cgi/content/short/16/10/e118036?rss=1",
-      "published": "2026-10-21T02:00:02-07:00",
-      "source": "BMJ Open — latest research",
-      "tag": "Research"
-    },
-    {
-      "title": "Imaging-guided treatment strategy compared to standard care in at-risk individuals for rheumatoid arthritis: a cost-utility analysis",
-      "summary": "STRENGTHS AND LIMITATIONS OF THIS STUDY This study models the full disease pathway from at-risk state through the diagnostic phase to established rheumatoid arthritis (RA), integrating data from pre-RA and early RA cohorts. The model was informed by patient-le",
-      "link": "http://bmjopen.bmj.com/cgi/content/short/16/10/e118495?rss=1",
-      "published": "2026-10-21T02:00:02-07:00",
-      "source": "BMJ Open — latest research",
-      "tag": "Research"
-    },
-    {
-      "title": "Higher Ed Groups Raise Concerns About Proposed Census Changes",
-      "summary": "Higher Ed Groups Raise Concerns About Proposed Census Changes jessica.blake@… Wed, 10/21/2026 - 03:00 AM Byline(s) Jessica Blake",
-      "link": "https://www.insidehighered.com/news/quick-takes/2026/10/21/higher-ed-groups-raise-concerns-over-census-changes",
-      "published": "Wed, 21 Oct 2026 07:00:00 +0000",
+      "title": "Utah Legislative Audit Suggests Reducing Tenure Protections",
+      "summary": "Utah Legislative Audit Suggests Reducing Tenure Protections Ryan Quinn Thu, 10/22/2026 - 01:34 PM A post-tenure review report recommends lawmakers consider “streamlining” the process to fire faculty and preventing universities from diverging from it. Byline(s)",
+      "link": "https://www.insidehighered.com/news/faculty/tenure/2026/10/22/utah-legislative-audit-suggests-reducing-tenure-protections",
+      "published": "Thu, 22 Oct 2026 17:34:12 +0000",
       "source": "Inside Higher Ed",
       "tag": "Higher Ed"
     },
     {
-      "title": "The GOP Is Going After the ABA. But Why?",
-      "summary": "The GOP Is Going After the ABA. But Why? jessica.blake@… Wed, 10/21/2026 - 03:00 AM Some experts say it’s an effort to crack down on the association’s violation of antitrust laws and ensure an intellectually diverse workforce. Others say it’s driven by politic",
-      "link": "https://www.insidehighered.com/news/governance/accreditation/2026/10/21/gop-going-after-aba-why",
-      "published": "Wed, 21 Oct 2026 07:00:00 +0000",
+      "title": "Telemonitoring for high-risk pregnancies (PregnaDigit EU): an international hybrid type 2 study protocol",
+      "summary": "STRENGTHS AND LIMITATIONS OF THIS STUDY This protocol outlines a prospective, multicentre, international hybrid type 2 implementation study to report clinical and implementation outcomes of telemonitoring using automated blood pressure and cardiotocography dev",
+      "link": "http://bmjopen.bmj.com/cgi/content/short/16/10/e115566?rss=1",
+      "published": "2026-10-22T10:14:55-07:00",
+      "source": "BMJ Open — latest research",
+      "tag": "Research"
+    },
+    {
+      "title": "Health literacy level and influencing factors among the French Scleroderma Association (ASF) members: a cross-sectional survey",
+      "summary": "Strengths and limitations of this study This study was a cross-sectional study involving patients suffering from systemic sclerosis (SSc). The study form was constructed based on data from the literature and we used two validated health literacy (HL) questionn",
+      "link": "http://bmjopen.bmj.com/cgi/content/short/16/10/e115738?rss=1",
+      "published": "2026-10-22T10:14:55-07:00",
+      "source": "BMJ Open — latest research",
+      "tag": "Research"
+    },
+    {
+      "title": "Cost-effectiveness of adjunctive hyperbaric oxygen therapy for fibromyalgia: an economic evaluation alongside a single-centre randomised controlled trial in Brazil",
+      "summary": "STRENGTHS AND LIMITATIONS OF THIS STUDY This economic evaluation used clinical outcome data collected alongside a single-centre, randomised, assessor-blinded clinical trial. Hyperbaric oxygen therapy resource use and costs were estimated from observed trial ex",
+      "link": "http://bmjopen.bmj.com/cgi/content/short/16/10/e115739?rss=1",
+      "published": "2026-10-22T10:14:55-07:00",
+      "source": "BMJ Open — latest research",
+      "tag": "Research"
+    },
+    {
+      "title": "Rule Limiting PSLF Beneficiaries Dead for Now",
+      "summary": "Rule Limiting PSLF Beneficiaries Dead for Now jessica.blake@… Thu, 10/22/2026 - 03:00 AM Advocates argued the policy would have weaponized a debt-relief program for public servants against organizations the Trump administration disagreed with. Byline(s) Jessic",
+      "link": "https://www.insidehighered.com/news/government/student-aid-policy/2026/10/22/rule-limiting-pslf-beneficiaries-dead-now",
+      "published": "Thu, 22 Oct 2026 07:00:00 +0000",
       "source": "Inside Higher Ed",
       "tag": "Higher Ed"
     },
     {
-      "title": "Xavier to Open Nation’s 5th HBCU Medical School",
-      "summary": "Xavier to Open Nation’s 5th HBCU Medical School Olivia.sanchez Wed, 10/21/2026 - 03:00 AM The dark history of Black medical education in America makes the new medical school even more important, said C. Reynold Verret, president of Xavier University of Louisia",
-      "link": "https://www.insidehighered.com/news/institutions/minority-serving-institutions/2026/10/21/xavier-open-nations-5th-hbcu-medical",
-      "published": "Wed, 21 Oct 2026 07:00:00 +0000",
+      "title": "Immigration Historians Compile Syllabus for Faculty to Combat Misinformation",
+      "summary": "Immigration Historians Compile Syllabus for Faculty to Combat Misinformation Olivia.sanchez Thu, 10/22/2026 - 03:00 AM Leaders at the University of Minnesota Immigration History Research Center say they want to put immigration enforcement policy debates into c",
+      "link": "https://www.insidehighered.com/news/faculty/curriculum/2026/10/22/immigration-historians-compile-syllabus-faculty",
+      "published": "Thu, 22 Oct 2026 07:00:00 +0000",
       "source": "Inside Higher Ed",
       "tag": "Higher Ed"
     },
     {
-      "title": "प्रधानमंत्री ने विनम्रता और निरंतर सीखते रहने के महत्व को रेखांकित करते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "title": "OSU College of Medicine Discriminated, DOJ Claims",
+      "summary": "OSU College of Medicine Discriminated, DOJ Claims Johanna Alonso Thu, 10/22/2026 - 03:00 AM Byline(s) Johanna Alonso OSU College of Medicine Discriminated, DOJ Claims Johanna Alonso Thu, 10/22/2026 - 03:00 AM Byline(s) Johanna Alonso",
+      "link": "https://www.insidehighered.com/news/quick-takes/2026/10/22/osu-college-medicine-discriminated-doj-claims",
+      "published": "Thu, 22 Oct 2026 07:00:00 +0000",
+      "source": "Inside Higher Ed",
+      "tag": "Higher Ed"
+    },
+    {
+      "title": "भविष्य के लिए तैयार डेटा लीडर्सः सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) की समिति द्वारा क्षमता निर्माण संबंधी व्यापक सिफारिशें",
       "summary": "",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326365",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327080",
       "published": "",
       "source": "PIB — Social Justice & Empowerment",
       "tag": "India"
     },
     {
-      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर शैलेश कुमार को बधाई दी",
+      "title": "उत्तराखंड के राज्यपाल ने प्रधानमंत्री से मुलाकात की",
       "summary": "",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326355",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327067",
       "published": "",
       "source": "PIB — Social Justice & Empowerment",
       "tag": "India"
     },
     {
-      "title": "प्रधानमंत्री ने एशियन पैरा गैम्स में रजत पदक जीतने पर रवि कार्तिक बुदिगीना को बधाई दी",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर स्वातिक पाटिल को बधाई दी",
       "summary": "",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326349",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327076",
       "published": "",
       "source": "PIB — Social Justice & Empowerment",
       "tag": "India"
     },
     {
-      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर हिमांशु नंदल को बधाई दी",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने नई दिल्ली में एनडीटीवी वर्ल्ड समिट 2026 को संबोधित किया",
       "summary": "",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326350",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327071",
       "published": "",
       "source": "PIB — Social Justice & Empowerment",
       "tag": "India"
